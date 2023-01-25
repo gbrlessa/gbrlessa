@@ -13,7 +13,8 @@ Sou um estudante de front-end, e estas são as tecnologias que utilizo atualment
 <br>Confira alguns projetos meus:
 
 <a href="https://gbrlessa.github.io/gelateria-reactjs/">Gelateria(ReactJS)</a><br>
-<a href="https://gbrlessa.github.io/clinica-medica/">Clínica médica(HTML e CSS)</a>
+<a href="https://gbrlessa.github.io/clinica-medica/">Clínica médica(HTML e CSS)</a></br>
+<a href="https://gbrlessa.github.io/agencia-design/">Agência Design(ReactJS)</a>
 
 <div align="center"><br>
   <a href="https://github.com/gbrlessa">
